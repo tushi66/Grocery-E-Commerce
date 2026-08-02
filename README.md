@@ -59,13 +59,8 @@ FreshCart/
 
 ## 📸 Screenshots
 
-Add screenshots inside the `images` folder.
 
-Example:
-
-```md
 ![Homepage](images/homepage.png)
-```
 
 ---
 

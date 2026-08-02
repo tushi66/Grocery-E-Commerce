@@ -59,7 +59,6 @@ FreshCart/
 
 ## 📸 Screenshots
 
-
 ![Homepage](images/homepage.png)
 
 ---

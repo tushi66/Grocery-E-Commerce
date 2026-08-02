@@ -4,9 +4,7 @@ A modern and responsive **FreshCart E-Commerce Grocery Website** built using **H
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.com
-
-> Replace the above link with your GitHub Pages, Netlify, or Vercel deployment URL.
+🔗 https://grocery-e-commerce-nine.vercel.app/
 
 ---
 
